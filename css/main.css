@@ -207,7 +207,7 @@ a {
   left: 0;
 }
 .social__item {
-  background: url("../../assets/img/sprites_socials.png");
+  background: url(../../assets/img/bg_contact.jpeg);
   width: 43px;
   height: 42px;
   overflow: hidden;
